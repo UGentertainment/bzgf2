@@ -1,0 +1,13 @@
+{
+  "assetBase": "https://cdn.jsdelivr.net/gh/UGentertainment/bzgf2@main/",
+  "generatedAt": "2026-10-02T09:05:33.664Z",
+  "files": {
+    "characterLibrary": "anime-characters.js",
+    "promptLibrary": "prompt-library.js",
+    "artistLibrary": "artists.js",
+    "styleDirectory": "styles/",
+    "characterAtlasDirectory": "anime-atlas-v2/",
+    "workAtlasDirectory": "anime-work-atlas/",
+    "fontDirectory": "fonts/"
+  }
+}
